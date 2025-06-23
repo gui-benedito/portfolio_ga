@@ -110,14 +110,12 @@ O BeeOnTime é um aplicação web moderna e responsiva para o controle de ponto 
 - Tailwind
 
 ### Soft Skills Desenvolvidas
-
-- Comunicação eficaz com cliente externo  
-- Liderança técnica e colaboração multidisciplinar  
-- Tomada de decisão em equipe  
-- Gestão de tempo e prazos  
-- Planejamento ágil (Scrum)  
-- Organização de backlog e tarefas  
-- Resolução de problemas em equipe   
+ 
+- **Liderança técnica e colaboração multidisciplinar** – Assumi a responsabilidade pelo back-end de um dos microserviços, guiando tecnicamente os colegas com menos experiência.  
+- **Tomada de decisão em equipe** – Propus o uso de microsserviços e justifiquei sua adoção com base na escalabilidade do projeto.  
+- **Gestão de tempo e prazos** – Organizei minha agenda pessoal para cumprir os prazos internos e externos mesmo com múltiplas demandas acadêmicas e profissionais.  
+- **Planejamento ágil (Scrum)** – Durante as plannings, priorizei tarefas mais críticas e me comprometi apenas com entregas viáveis por sprint.   
+- **Resolução de problemas em equipe** – Atuei diretamente na correção de bugs de integração entre microserviços e ajuste de dados inconsistentes no banco.  
 
 ### API 2° Semestre - 2024.2
 
@@ -171,13 +169,13 @@ O Cloud Stock é um sistema de controle de estoque desenvolvida para facilitar a
 
 ### Soft Skills Desenvolvidas
 
-- Comunicação entre áreas técnicas (front/back)  
-- Trabalho em equipe distribuída  
-- Organização de código e documentação compartilhada  
-- Iniciativa e autonomia na estruturação de sistemas  
-- Planejamento e priorização de tarefas  
-- Adaptação a mudanças  
-- Cooperação e suporte técnico entre colegas  
+- **Comunicação entre áreas técnicas (front/back)** – Mantive contato constante com o responsável pelo front-end para garantir que meus endpoints estavam sendo consumidos corretamente.  
+- **Trabalho em equipe distribuída** – Adaptei minha forma de trabalhar para colaborar com colegas que tinham horários limitados, mantendo a continuidade do desenvolvimento.  
+- **Organização de código e documentação compartilhada** – Criei arquivos README e comentei meu código para facilitar a leitura e manutenção posterior.  
+- **Iniciativa e autonomia na estruturação de sistemas** – Tomei a frente na criação do back-end mesmo sem um modelo pronto, aplicando boas práticas desde o início.  
+- **Planejamento e priorização de tarefas** – Separei as funcionalidades principais e comecei pelas mais impactantes para garantir a base do sistema.  
+- **Adaptação a mudanças** – Refatorei o back-end para adaptar um novo fluxo de entrada e saída de produtos solicitado tardiamente.  
+- **Cooperação e suporte técnico entre colegas** – Tirei dúvidas de outros membros sobre consumo de API e tratamento de erros no front-end.  
 
 ### API 1° Semestre - 2024.1
 
@@ -235,10 +233,8 @@ O Smart Farm é uma câmera tecnológica que integra um sofisticado sistema de m
 
 ### Soft Skills Desenvolvidas
 
-- Comunicação técnica para interpretação de dados  
-- Colaboração na resolução de problemas analíticos  
-- Pensamento crítico e detalhista  
-- Responsabilidade em entregas técnicas  
-- Planejamento de experimentos e testes  
-- Aprendizado contínuo em equipe  
-- Organização de atividades por sprint  
+- **Comunicação técnica para interpretação de dados** – Expliquei pessoalmente os gráficos gerados ao time, traduzindo dados técnicos para informações úteis à tomada de decisão.  
+- **Colaboração na resolução de comunicação com o produto do cliente** – Analisei e orientei o cliente de como fazer a comunicação com nossa aplicação.  
+- **Pensamento crítico e detalhista** – Validei cada conjunto de dados manualmente para evitar distorções nos gráficos gerados.  
+- **Aprendizado contínuo em equipe** – Compartilhei scripts em Python e expliquei funções específicas para colegas que tinham menos familiaridade com análise de dados.  
+- **Organização de atividades por sprint** – Planejei e documentei todas as etapas da análise de dados, dividindo em pequenas entregas dentro de cada sprint.  
