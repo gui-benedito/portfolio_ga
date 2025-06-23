@@ -181,7 +181,7 @@ O Cloud Stock é um sistema de controle de estoque desenvolvida para facilitar a
 
 ### API 1° Semestre - 2024.1
 
-#### Parceiro Acadêmico: Cliente Interno, Professor Cláudio
+#### Parceiro Acadêmico: Cliente Interno, Turma de Manufatura Avançada
 
 - SmartFarm
 
